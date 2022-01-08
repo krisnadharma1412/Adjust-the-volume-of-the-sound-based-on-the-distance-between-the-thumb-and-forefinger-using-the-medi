@@ -1,0 +1,7 @@
+Langkah-langkah
+
+1. Ambil API untuk Volume di Windows (pycaw)
+2. Capture Video (cv2)
+3. Menentukan Landmark (hands, mediapipe)
+4. Kalkulasi Distance Landmark (numpy)
+5. Mengubah Volume 
